@@ -1,0 +1,4 @@
+"Ini adalah file cv"
+1 : Skilvul
+2 : Markoding
+3 : Dicoding
