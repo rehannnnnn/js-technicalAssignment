@@ -1,0 +1,6 @@
+Apa itu localStorage?
+// Local storage merupakan penyimpanan data yang tidak memiliki masa expired. Data akan terus disimpan di host
+Apa itu cookies?
+// Cookies adalah data yang paling kecil yang dikirim dari situs web dan disimpan di komputer oleh web browser. Maksimum data yang dapat disimpan cookie adalah 4 kB
+Apa perbedaan antara localStorage dan sessionStorage?
+// Session storage ini mirip dengan local storage karena memiliki maksimum penyimpanan data sebasar 5 Mb namun sessionStorage hanya menyimpan data pada sesi dia saja dan ada masa expirednya.
